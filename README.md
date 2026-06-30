@@ -1,7 +1,7 @@
-# Centro Universitário SENAC - UNISENAC
-# Inteligência Artificial e Ciências de Dados
+Centro Universitário SENAC - UNISENAC
+Inteligência Artificial e Ciências de Dados
 
-# Disciplina: Extração e Análise de Dados
+Disciplina: Extração e Análise de Dados
 
 # Pipeline Completo de Dados e Apresentação de Insights
 
